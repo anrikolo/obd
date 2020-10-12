@@ -48,11 +48,11 @@ DDF використовується для визначення наборів 
 
 ## Порівняльна характеристика існуючих засобів вирішення завдання
 
-- ###[Gapminder](https://www.gapminder.org/)
-- ###[The World Bank DataBank](https://databank.worldbank.org/home.aspx)
-- ###[Google Public Data Explorer](https://www.google.com/publicdata/directory)
-- ###[Statistics Poland](https://stat.gov.pl/en/)
-- ###[Eurostat](https://ec.europa.eu/eurostat/data/database)
+- ### [Gapminder](https://www.gapminder.org/)
+- ### [The World Bank DataBank](https://databank.worldbank.org/home.aspx)
+- ### [Google Public Data Explorer](https://www.google.com/publicdata/directory)
+- ### [Statistics Poland](https://stat.gov.pl/en/)
+- ### [Eurostat](https://ec.europa.eu/eurostat/data/database)
 
  *(у вигляді таблиці).]*
 
