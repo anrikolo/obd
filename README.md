@@ -10,9 +10,9 @@
 - Губський Артур
 
 ## Розділи документації
-- [Аналіз предметної області](./docs/lab1.md)
-- [Запити зацікавлених осіб](./docs/lab2.md)
-- [Розробка моделі бізнес-об’єктів](./docs/lab3.md)
+- [Аналіз предметної області](./docs/requirements/state-of-the-art.md)
+- [Запити зацікавлених осіб](./docs/requirements/stakeholders-needs.md   )
+
 
 ## Аналоги 
 - [Gapminder](https://www.gapminder.org/)
