@@ -34,7 +34,7 @@
 
 
 
-[UML](https://jace-dev.herokuapp.com/design/use-case-tutolial#/)
+![IMAGE TITLE](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://jace-dev.herokuapp.com/design/use-case-tutolial#/)
 
 
 
