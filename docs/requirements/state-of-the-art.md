@@ -48,13 +48,11 @@ DDF використовується для визначення наборів 
 
 ## Порівняльна характеристика існуючих засобів вирішення завдання
 
-*[Розділ містить опис існуючих програм, інформаційних систем, сервісів, тощо, призначених для вирішення 
-завдання. Дається порівняльна характеристика властивостей FURPS:*
-- *Functionality (функциональні вимоги)*
-- *Usability (вимоги до зручності роботи)*
-- *Reliability (вимоги до надійності)*
-- *Performance (вимоги до продуктивності)*
-- *Supportability (вимоги до підтримки)*
+- ###[Gapminder](https://www.gapminder.org/)
+- ###[The World Bank DataBank](https://databank.worldbank.org/home.aspx)
+- ###[Google Public Data Explorer](https://www.google.com/publicdata/directory)
+- ###[Statistics Poland](https://stat.gov.pl/en/)
+- ###[Eurostat](https://ec.europa.eu/eurostat/data/database)
 
  *(у вигляді таблиці).]*
 
