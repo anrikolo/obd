@@ -11,10 +11,37 @@
 ![uml](http://www.plantuml.com/plantuml/png/dPJDQjjG48NtUOgBrorrDbqOnmJQJTSbw-8u2Yqu4KZgebrLSeat9IaXs53eJ-aBACAg5SMANs7cZNhcZaGZa5eHRtHrhJdVEQEvslU3iHUyFPdkJ9tZmBnsnaUEjsFAt_3OFGtCn9swtbw_tpV-c_VEtkxJqV1mzEBvOFZaS6GEdhtQxV8yVQMOrfHGh7NqaoFStV47oh3A3DtHDTtoWdAi4ihenj0QDLly7tOY_E8vnHnIWUASifBpfMI47F5C-3n_1BhkK4eRYZkfVwSKEYcjeB9HYoNX4gPNK9j1h-159xKVK5f3wPO_eIhcgDsjROEW-KgsiH9uJ8Nj4SyCXt_3TCHVIei0F-UvM5O9404wumKl_-46bz-KFjHK9tVVK5o8O2KNyXbq2Y6YrpVMNLtIEJsgXjVUZoU1wvbUKuAU6Vlcm2_7V08RdZirlVf8s8TUllC3vqG5fS0y7kbrqD8QSHZ99kLONHbS9CUMSfw1iAotJEkqW2zwzp3WA7kWwVIcjc_FqyfI-AFriW7ZldprBkiAcc3Gc6afnqtxpkTrOHdI_-NJWq1RGLEYnxevLMkepuAGhu0S3W4Kcj8EQRLehQwEA8eg5z2w49t484eetvZoBSjSIGgw1gn0OTJSftrC5ZwFVm00)
 
 ![uml]()
+### 
+### ____________________
+###
 ![uml]()
+### 
+### ____________________
+###
 ![uml]()
+### 
+### ____________________
+###
 ![uml]()
-
+### 
+### ____________________
+###
+![uml]()
+### 
+### ____________________
+###
+![uml]()
+### 
+### ____________________
+###
+![uml]()
+### 
+### ____________________
+###
+![uml]()
+### 
+### ____________________
+###
 
 Наприклад, зображена вище діаграма вбудована за допомогою:
 ```
