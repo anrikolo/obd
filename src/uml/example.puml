@@ -1,12 +1,32 @@
 @startuml
-Actor User
-participant github
-participant plantuml.com
-User -> github: Перегляд "file_with_uml".md
-github --> User: Візуалізований HTML з тегом <img> 
-User -> plantuml.com: Запит до plantuml proxy
-plantuml.com -> github: Запит на отримання опису діаграми
-github --> plantuml.com : Опис діаграми (puml) 
-plantuml.com -> plantuml.com: Візуалізація діаграми
-plantuml.com --> User: Зображення діаграми в форматі png 
+actor "Користувач" as User
+    actor "Менеджер" as Manager
+    actor "Адміністратор" as Admin
+    
+    usecase "<b>UC_1</b>\nCтворити\nобліковий запис" as UC_1
+    usecase "<b>UC_2</b>\nПрацювати з\nнаборами даних" as UC_2
+    usecase "<b>UC_3</b>\nЗавантажити файли" as UC_3
+    usecase "<b>UC_4</b>\nЗалишати коментар" as UC_4
+    usecase "<b>UC_5</b>\nУправляти\nнаборами даних" as UC_5
+    usecase "<b>UC_6</b>\nВідповідати\nна коментарі" as UC_6
+    usecase "<b>UC_7</b>\nОформити звіт" as UC_7
+    usecase "<b>UC_8</b>\nНалаштувати\nдоступ" as UC_8
+    usecase "<b>UC_9</b>\nАвторизація" as UC_9
+    usecase "<b>UC_10</b>\nПереглянути звіт" as UC_10
+
+    User -u-> UC_1
+    User -u-> UC_2
+    User -u-> UC_3
+    User -u-> UC_4
+    User -u-> UC_9
+
+    Manager -u-> UC_5   
+    Manager -u-> UC_6
+    Manager -u-> UC_7
+
+    Admin -u-> UC_8
+    Admin -u-> UC_10
+
+    Manager -u-> User
+    Admin -u-> User
 @enduml
