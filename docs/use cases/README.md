@@ -1,6 +1,6 @@
 # Модель прецедентів
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/blob/master/src/uml/main.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/blob/master/src/uml/example.puml)
 
 ![uml](http://www.plantuml.com/plantuml/png/ZPJFQk9G5CRtFaLmBpFZVq74mVKitGb3r30CZ1amkhVHjgwgT952wPz5No2cMcCroIkSyqOzztYlBSrTL52kdz_tyvpZkJQTaJaSZGV_CcPlz7zePE4MOfn0Y6VeuXG2yF4oQvYEqNQiOSQWXpBUmGOYUgxX1JOuOTClqpR_VF8joN503oBq63eXf0knJFpi3_xQxEUNiMFrJCSoilLkeztw_QF-hTles2qA1B8k5yAE3J6iO4_GLpe54CBEW2tua8Z2cIl2EcB-I8H7hkC2hxX5WXA0v8WWA_uc7mv2NDCX8kgvekPrr8Aatf0x40aY-ZINaCauepSxs4Ee80KTfFW1GbwSoyAuoGDiZbGvD-7NGKeIyWG9Dn7Gc1O2ywNcIZfaMIAlqQD48YRE9_yTcweHFOKiwv0LYNp06TT3rSZVGB3HLU6ABboLuNkUauzpkQcgdZN4SdiJnQdgE3N9MK90ITuksF9IUBXGoPfsBR-hBHARJrq_YobJxrDT5sJF20fV8ICtpZLOJ4lvj5H8IyMqL6E-kdqdkKIQzeEoLgqSANmZJs9Ler4_6W0LbF8AhMdPVVg3UGC0)
 
