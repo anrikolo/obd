@@ -9,4 +9,5 @@ package {
     UC_8.1 .u.> UC_8
     UC_8.2 .u.> UC_8
     UC_8.3 .u.> UC_8
+    Модератор -> >UC_8
 @enduml
