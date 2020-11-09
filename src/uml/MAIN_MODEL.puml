@@ -27,6 +27,6 @@ actor "Користувач" as User
     Admin -u-> UC_8
     Admin -u-> UC_10
 
-    Manager -u-> User
-    Admin -u-> User
+    Manager -u-|> User
+    Admin -u-|> User
 @enduml
