@@ -1,4 +1,4 @@
-    usecase "<b>UC_9</b>\nАвторизація" as UC9
+
 
 @startuml
 actor "Користувач" as User
