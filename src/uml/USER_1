@@ -1,0 +1,13 @@
+@startuml
+package {
+        usecase "<b>UC_2</b>\nПрацювати з наборами даних" as UC_2 #aaeeaa
+    }
+    
+    usecase "<b>UC_2.1</b>\nАналізувати дані" as UC_2.1
+    usecase "<b>UC_2.2</b>\nШукати дані" as UC_2.2
+
+    UC_2.1 .u.> UC_2
+    UC_2.2 .u.> UC_2
+
+    Користувач -> UC_2
+@enduml
