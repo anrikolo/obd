@@ -34,15 +34,15 @@
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.1.puml)
 
-### ID: UC_2.1
-- Назва: 
+### ID: UC_2.2
+- Назва: Пошук даних
 - Учасники: Користувач, Система
-- Передумови: UC_2.2
-- Результат: Система відображає дані в інтерактивному виді.
+- Передумови: Відсутні
+- Результат: Система відображає знайдену інформацію у базі даних.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu8pqZGETaaDCm30NHg_W0Y0F0XeEmX6rFq4LJGykYAbA4KWa92k82RfNGfC7X2ZCtOcGhA94GM2pjdtdp_tmdHO4dE1omXujARD7nZXP7Wr8bZvgtIQ0tBk6OGGeSKKSS7eMRYP5nBgXik3mnU8qtgF01bqJVeXAdGaahJITIxv2pG2cQ5S-pIAAzY7GGgULAAiTvP8txCjXJQ9djPEtm3iS7ex2y3eqAbVoiqJUUDs5CYRXWmRNHFNPmCYa6EPucDPU705kk5QYNdXdga5w4R_wOEydZEInACOPrDVBW0ff77ZDnc-0nHbvFhlgN6CxJdtOx3QKpv3fsA4FZA_CzZWpZG6tmTif6bNk3p_xLqPv7-dWNFNUZaTMU25x0i0qdiMm6aTj1vB_I_hFkoqdwmkL-eTZq8ty1)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
 
 ![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuG2Dbivem54JXLmckYr2xgvi-I9VjrYTmeGbL5qL1HA5WV-WBn63qcjJu2cVUg6VkO20bbBi9cV7ETpntZjw5dCSMAOx8aDeSDaYrmbbYFW-IQCLt5s7ls-jk4FTRffmRumo70ixeU4Cb8pWPIon6djv4-B8ESlmW3SD_82SenruI3bL4kTfuhtjBg7OFAE6GeR9sBupzIUwHt59U9LRpHiRA_4SuDky8kRNFIFLHqSjQDgrcG-qj_QsLCkU8icKCvocfJ1HktmXBMMDFVYAn7glHGHhlkXszEh-Z4pLaebQeCIBtv3MQoEV1qpMBlXwsUHpwZ-wnjTnGfU3RAaBXvIue98awVuEc_k0wVUCs8t4bwiZ5Ba9v6HnsLA_ZwNma2fQLMf2vDajPwCPs5XZR5aKNtNwG1PHip1I9pClAJ97oekogJNNpluUcRKNMlwn8ajgLTbW-3b2qn8Z8LiCqzS0byO_Z5m00)
 
