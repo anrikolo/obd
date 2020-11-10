@@ -62,7 +62,7 @@
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_4.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/kaka.puml)
 
 ### ID: UC_5.1
 - Назва: П
