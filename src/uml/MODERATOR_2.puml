@@ -1,6 +1,6 @@
 @startuml
 package {
-        usecase "<b>UC_5</b>\nПрацювати з наборами даних" as UC_5 #aaeeaa
+        usecase "<b>UC_5</b>\nУправляти наборами даних" as UC_5 #aaeeaa
     }
     
     usecase "<b>UC_5.1</b>\nДодати дані" as UC_5.1
