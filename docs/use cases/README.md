@@ -44,27 +44,84 @@
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuG2Dbivem54JXLmckYr2xgvi-I9VjrYTmeGbL5qL1HA5WV-WBn63qcjJu2cVUg6VkO20bbBi9cV7ETpntZjw5dCSMAOx8aDeSDaYrmbbYFW-IQCLt5s7ls-jk4FTRffmRumo70ixeU4Cb8pWPIon6djv4-B8ESlmW3SD_82SenruI3bL4kTfuhtjBg7OFAE6GeR9sBupzIUwHt59U9LRpHiRA_4SuDky8kRNFIFLHqSjQDgrcG-qj_QsLCkU8icKCvocfJ1HktmXBMMDFVYAn7glHGHhlkXszEh-Z4pLaebQeCIBtv3MQoEV1qpMBlXwsUHpwZ-wnjTnGfU3RAaBXvIue98awVuEc_k0wVUCs8t4bwiZ5Ba9v6HnsLA_ZwNma2fQLMf2vDajPwCPs5XZR5aKNtNwG1PHip1I9pClAJ97oekogJNNpluUcRKNMlwn8ajgLTbW-3b2qn8Z8LiCqzS0byO_Z5m00)
+### ID: UC_3
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_3.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu4q0fvPEJC116yRsdQDYuCIIwj1iFerjFm8AM22w89CIKn0JHU86XeJAqq5xXlHlvVPsAaXASnB1X_l1xxyttWizzp66mHWhZVeUPh0jOFi8mXWsGeyGM6NQoDEmpwNfnFpY2OOGTh21iGtz1oRxG8yOSg2f75m7UtGuo4J9--0Ko0MLO2MQBKb1s7_ogU-a7UHF0MW05ntMuUE_o87A0IaqZr_IeKEYHh3S1LYW3-Mwmr60Sw8xHGpxuMPWg5mMVE1Av9604Mx-DuP09PusZgGYl6770MA_jqLuQhpe6VQF6jN266i6D4vjQun1vTt_xNRfwtJiskLvzT8svgugev31yrigeN8LS7gJpgr7sQACwePCuh443TybHOYdg1fzE86NYHFIz2qvaHpwbjY7ys-_KtLKx7BViXFyEx2nNjU7KXJwTSQ52ICyvqJeAKEDekN-AbhVTAAFb_cGbmxCR6Qpygtm1)
+### ID: UC_4
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_4.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuKpr3G2FbavCm58JnlQTuOMqyW6myZ6uz0GkW2Xi32I5b8_w95oWDbKVXjLVuvaREdrPJO-hRTHg-tpVppT0O1RR8S42Ep9HOey8UcRoXARpJ8b1w5KNxe3dh9WZmAE4RvZCA11IC-aH1uqk7TtYQCB_06LaS-bMa0g64HHNoR_oAKkmPbp2GEusYlJ7fmAGJFR6AHsrOMoFZw73MIJpo9WDuUfJ7gYrnrD9Xfndwk3bM6is95ZINRfruq9GITfjHIfj_XehoUD4Lo2JM9dDckeECnimzgaSNUNT_snwQrgFVMnlfwsjixJ3OeUIdjKEfLZLAIjm06xiT18cLbLv-_7UOWw4vTQ-XzH5GRT68YonbHsCpbz1gL2nAiNCuT3srxq3BOVyWAo72AtCTI-nfc8F1tbWFg1XxfaIcFT7IWBLj9BAzpO-25WBbJXn2R_fsDQXb9kIMVM_AzdStKeWuVRlMbkA75pTyD_oX-W80)
+### ID: UC_5.1
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_5.1.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/ZPDDJi9G58NdhEA5iK4WqG4_X4GdBi2n0IdH1261EZ4CA1YS64W8WOcWnWrKOwNy5BPmxuuyjpmH74YPqBxqVEVSdvUjcRcgUNjJ2fMCegckZ5p1g8QK_gMAbRAfBYkbIZKTZKPLxVhEICUECwbyvkmqaJhCPzJvoSLH91v4GIEoQK8VPA-LD2QFbdYVSqTEkKckKlI9hpmUH08Xt_W1GWiWbsRaQl0JEJXnWFeYXni7Ybx9PGi63Yt83eP-5gb0k0MHv7Gt5SSZiK2C5-WdqC_v4UQeK0VihsjKmEeMa1Eyw9uKArr3yK91_IutOMDpcmSyr2Oz7Y2ynIrOuxCDEf37c2qTJLexLU2q9ICy6k1EVOzTf54k_EoF_rx_EuUwVvoWqNhMS9ZXgQ_m9rOhcd5BXQad6dzQhg89BM273E6aXkwCSWi95u7nFIqnjmLGE9bpLnWshNGj4iZZRlB_XCDV1NS4Yk4fylRabdxJ2kOsX9Z8lj1R-oyqlVXAah_BLS4-94DPj1NNyni0)
+### ID: UC_5.2
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_5.2.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuCq3ZL92JG104xxvYmjcGw54kFaQlle03B8eN8WanoqL4umTQiiYmoy8NgdzaJKz4bXYS0ydGCrNLLTsRyXup25POG28E4yrHO8Sj5dOIpU0TQeX3oUe6IzIiYVOqRoT9VEWZHFlayAJmKGWlWOY_0bzOQk_SuHrU-vgnje6aKSy3D93eW23s3B_tVzc-IE9u8tv5VAKZyvNzdOIE77OKeuTWdHSLWPPBWQqbX4ziUJS85GbszI7DniIIgVI9ITMQE-qJcx4dqQ7cEZtiY14DD0lFzjH96gys0PgnEQofeSDemEoiJQD9UNjtyxDwzhzxFBIkbQymYsj2XPAdPuVIf7Oe6KQhcQIDsBSwaR4vz0C-5CQazo5IR6AebOuTLf38PPtKg7NSETtUz1V1Y4cQGJYmfAOfBWJw_vkUDvT3nu5pSRn4fxUbStRDqFdTVmC0)
+### ID: UC_6
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_6.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuGEFKZjCm44HxJh5AZMWea733OQ3b12dyWT0WB4N8RaW2uW8cYiacnlOLtjo8Drudn1JM5b7si-ypRyPNFk-nG84jrYWS3ajvG2CXVb39YvvB36lqYMGINtXnVieJSH5gMEnXU-OtbAZvs-0RfOJd1X-m4f6_f5hXHxrIg998Gb13W_POyAKNmplHMw8hUQOqotDuvAv2WvO2z2sXP6XHgMlkTuR66yDrWIzDI18zAVHI7ltCpvLNSsK-jMH68c9ZIUXYHksyTpAdy8R191BhioErbyPISzTWUjVacMa9rD22Tft6aFBk_lOmOTr--hzLq-xu6Wit3LJOS_Lg-ATIBSDApEHaTEnWQ2Q1ents-uIKEaftWBjaAqd9mCkshqOjrP86unxpFmHp9YbxR52FEdU9Q-C9NZltuwPNmncHL3dxSaS79JYxOTpyi7y1)
+### ID: UC_7
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_7.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu2pr08sMJap0KHU6vgtXXR4oSoiI5EDGfAs1GQ007H0qnc1Zn9swWr5OAj8yjdBiZpxjjCUL7tu11R_k-Szwv9vpxdC0C4HQ84PKdzJdXZnFf8pFOI50-6iwjzAGl8OVXcHV-KqO4zL0WmmfP9V90L2vJ539LOA1YLe9JWmzaReOKEI8_aJUaHAH8w2o7HRmLcb0a8Iuaa69-k7UY5aIjPSnZT5R1dfr3P6K46j38mAhzp9b5t4Zh1HO9qj_B-LvdebcjvKv6phHXV9bAHZ9aO4-7xxP5UscywauObMvcIGqP8aL1ZO3SfMeqaJUTwxgA-jmzliQkVd1HBqO6BWgzn5XRP5oHE9jNkxRuSiCL8imT3wcxRzjNPgO3eXn17WdIkssmaj2qjD9hlhYjzuQ2hFkTFhTgkKO1QmaDspdM_NwhJ6bTyofK2ejoMvlAYqLkhZg8fKVd0zhQBn3FniQrp23VxOjxvvq1IwDn1chja1IYIgZOYOiMzmDBoe_-Q_JVgIdeg2496_Hydzu-kMJh-4Vu0m00)
+### ID: UC_8
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_8.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu2pr08sMpkpGKHF6zJt73shXmAHiVnALkUG8Mb0PqGTGG0eaHF-8Bb5ha0crvXJDlv9bfRsEnVt9tS7ldTsREdFPbJ0Nso712Zgofn8x_3_0oGoPpU8UR_jGB3WLgIMGkAG_J5r7uN_AUe0GLF2xmhSXdeahPefAj0KsCyDbpXv_mUeOZIcHn8jzn9EA8Gb8MrSWxeJL52k9I0YaMX_j1r8cegwnOnivQs5UY2vKAtJhaNVCU-RzUQQ6pEJ9zy4MlmxVkyG9juO1n_QpDkwjyP16781PUEQGiQU1kUDOE7QNnpNP4wsnJPsrzoGuhQip8FPj67_bkyZP4q_vFdrxhr2wy2ekIXJffGwmiLKw3nRD3k_iQl_NmebbK7aiuxpXMPcy7H2b1DWJPR3TS97KZY_oL3pw4PQ0YwzDTlaT1hXV8865cQyUsyJycqxHkVbKcXLEphLlRIutIlPaWbuITBzZM_wbWRTw41-LztFHPj0SQcl0URmQo6pAAgc-MDjYtoxu8Wz-30UXZrmpLDKNwO5yujm4mGARcIFAGgnijbDah6NpjnizUCxZyjlu5)
+### ID: UC_9
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_9.puml)
 
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu2pr0A-Mkb30GXU7UfzYXLXexQNmGIsrv0WeW0remNXW6Pfp1o_W28IOI20cly9ytyZ_i1eq6PmixifVlE_llOKzzTc2E44j42ErEpFYzG2fTXD97Qh3Ldxh084OXFUbBmC70u145vr8tn1LoZR3fPNtJfT93ZXHhfCvzJyD6fiXbgb1N0oN71gzMX0GRNyap4Y8In19mKu5eBnfJ4XCN44YP7-w5g2LHcOouZPLPMBKom_0okjPaJog9rUTbKpNyIh0uaTutLkfLrHYQO2QtXF4eHX7A9tt866Vr9zwZlHnFXERG07FQLdJ840boEhhahdQEAlAgVLdsxUwxS_XoExi5P-LroO2c67g8aGk76N9iuR8fyAw3QsrKvN4BpzlorSnrG55Aa8c2z6nRlJBJq6badBWfBucpkTpzQFv6gQjSlbFOiBLYjUC3gh6bQru4gWfBUrjRLqk1ZRbe8-B2gGmCHtvr2_T6HdlFqAOX9L_7qpdl3BHfoZ_vv51ZMb5UZOibLWEp3qRjSr6B_JkvXt_xypHRH-TiGZwYdm00)
-
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuG2DbavD044JXFQVei3OcBfMDXz6j9s01Wy2622464nFyYHTeSJeCCDDSuTMDV5KpOaX6dB1WcAxwtgjN7IwRr6C9ZpLMy6KVPbX9WYWzP7plPIGBcPutGdt8c0rz56pT8gk0poLC-fB8G8LaVERmNhv1G0xVYFwAG4v0IagEI59s6FMY4U6DtMjsxsH2PI_9tmuT_54EAkTji4spBEQQ0PKUc4aX2yTOCiLNYJvLqdDP8ANmW5eiEw0RQRnercRDZ553HXone4QFt8rf72Dlxsv-BbEhMpTuryfE75rXgT7f4GVqykZufIxssCh0jJdIK8TgTqhIyQOhnc6Pz8ezdvWsmvgILgSCxxJI6IVQS8MfSKT3HBqI7UN-6aHgrkJUOBcMfYh03dwimv6I8vJRILHYhy4XwjQ8-p-8UOconKxKOU3Fpt9ymweBVI3jL1WpYs77DjvEkZQFWSsXbd8olVgOelJLMYKUyOMeQ_DqgpL1P-kqhdax-9Vp3G00)
-
-
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuGmD09UMEcp0GXE4-frXH8zf8eSb1KYOj9w3mGq23848HLEIXN6010-PXSuL_RfJvrsiK5q6RqgkPxzlvP-MG1YnXiSSQjch41xOIOOiDJZ958Qaao0rBP2v99uZvBIDOYL4Wnn6v9xyYmrdcA1GKIw8Mg-nIehR15tAUgVSC6oQfBvf9gasbZf1VPxyFGtng-rxRJpAMXBUf0CtR64wEJ0qhzJ6i72VOVqOoOnGgciY80HY9rP6esyfGAGjldb4bCLDdsHKTv7XtaJC91dzGXmnrXa8TaN8Fpj54llIUwzVbllj_Rwdl2Xxgt6MWfimDCJQCnsXHp9HyU2KsF3p2OaKUjfot6wfPye0e4kID8CvsmL5IqyAY2XzvonERIwifiyRgTex4AffeTpJiguLSlAx4sJprL12hOd1TjDQls_urQ1q9YKlRCk-gqB8nyxDCN2xyz4M5J8FdvuDXb54rlR_3pM5lFjkTfByudUxTe-vU_p0_)
-
+### ID: UC_10
+- Назва: П
+- Учасники: , Система
+- Передумови: 
+- Результат: 
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_10.puml)
 
