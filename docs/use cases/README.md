@@ -83,46 +83,48 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC52.puml)
 
 ### ID: UC_6
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Відповідати на коментарі.
+- Учасники: Менеджер, Система.
+- Передумови: UC_2.1
+- Результат: Відповідь прикріплена до набору даних.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_6.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC6.puml)
 
 ### ID: UC_7
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Оформлювати звіт.
+- Учасники: Менеджер, Система.
+- Передумови: UC_3
+- Результат: Звіт прикріплений до набору даних.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_7.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC7.puml)
 
 ### ID: UC_8
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Надавати права доступу.
+- Учасники: Адміністратор, Система.
+- Передумови: Відсутні.
+- Результат: Користувач отримав права Модератора.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_8.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC8.puml)
 
 ### ID: UC_9
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Авторизація.
+- Учасники: Користувач, Система
+- Передумови: UC_1
+- Результат: Користувач авторизований.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_9.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC9.puml)
 
 ### ID: UC_10
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Переглянути звіт.
+- Учасники: Адміністратор, Система.
+- Передумови: UC_7.
+- Результат: Система відобразила звіт.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_10.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC10.puml)
+
+
