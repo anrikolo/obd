@@ -74,13 +74,13 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC51.puml)
 
 ### ID: UC_5.2
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Оновлювати  дані.
+- Учасники:  Менеджер, Система.
+- Передумови: UC_2.1
+- Результат: Дані оновлені.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_5.2.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC52.puml)
 
 ### ID: UC_6
 - Назва: П
