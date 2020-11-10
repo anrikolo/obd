@@ -65,13 +65,13 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC4.puml)
 
 ### ID: UC_5.1
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Додати дані.
+- Учасники: Менеджер, Система.
+- Передумови: Відсутні
+- Результат: Новий масив даних доданий до бази.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_5.1.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC51.puml)
 
 ### ID: UC_5.2
 - Назва: П
