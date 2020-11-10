@@ -13,7 +13,7 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/MODERATOR_1.puml)
 
 
-### ID:UC_1
+### ID: UC_1
 - Назва: Створити обліковий запис
 - Учасники: Користувач, Система
 - Передумови: Відсутні
@@ -24,7 +24,7 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_1.puml)
 
 
-### ID:UC_2.1
+### ID: UC_2.1
 - Назва: Аналіз даних
 - Учасники: Користувач, Система
 - Передумови: UC_2.2
@@ -34,6 +34,13 @@
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.1.puml)
 
+### ID: UC_2.1
+- Назва: 
+- Учасники: Користувач, Система
+- Передумови: UC_2.2
+- Результат: Система відображає дані в інтерактивному виді.
+- Виключні ситуації: Відсутні  
+### Основний сценарій:
 
 ![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu8pqZGETaaDCm30NHg_W0Y0F0XeEmX6rFq4LJGykYAbA4KWa92k82RfNGfC7X2ZCtOcGhA94GM2pjdtdp_tmdHO4dE1omXujARD7nZXP7Wr8bZvgtIQ0tBk6OGGeSKKSS7eMRYP5nBgXik3mnU8qtgF01bqJVeXAdGaahJITIxv2pG2cQ5S-pIAAzY7GGgULAAiTvP8txCjXJQ9djPEtm3iS7ex2y3eqAbVoiqJUUDs5CYRXWmRNHFNPmCYa6EPucDPU705kk5QYNdXdga5w4R_wOEydZEInACOPrDVBW0ff77ZDnc-0nHbvFhlgN6CxJdtOx3QKpv3fsA4FZA_CzZWpZG6tmTif6bNk3p_xLqPv7-dWNFNUZaTMU25x0i0qdiMm6aTj1vB_I_hFkoqdwmkL-eTZq8ty1)
 
