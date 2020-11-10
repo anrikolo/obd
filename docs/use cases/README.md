@@ -67,7 +67,7 @@
 - Результат: Новий масив даних доданий до бази.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC51.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC5l.puml)
 
 ### ID: UC_5.2
 - Назва: Оновлювати  дані.
