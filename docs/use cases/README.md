@@ -97,10 +97,10 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/uC7.puml)
 
 ### ID: UC_8
-- Назва: Надавати права доступу.
+- Назва: Налаштувати доступ.
 - Учасники: Адміністратор, Система.
 - Передумови: Відсутні.
-- Результат: Користувач отримав права Модератора.
+- Результат: Зміни з налаштування доступу внесені до системи.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC8.puml)
