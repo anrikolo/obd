@@ -42,7 +42,7 @@
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_3.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC2.1.puml)
 
 ### ID: UC_3
 - Назва: Завантажувати дані.
@@ -52,7 +52,7 @@
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_3.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC3.puml)
 
 ### ID: UC_4
 - Назва: Залишати коментарі.
