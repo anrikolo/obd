@@ -3,21 +3,12 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/MAIN_MODEL.puml)
 
 
-### 
-### ____________________
-###
-
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/USER_1.puml)
 
-### 
-### ____________________
-###
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/MODERATOR_2.puml)
 
-### 
-### ____________________
-###
+
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/MODERATOR_1.puml)
 
