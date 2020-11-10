@@ -17,8 +17,15 @@
 ![uml](http://www.plantuml.com/plantuml/png/ZPJFYfjG5CRtynGNrotDRBgGZ0oqcwxBh8kJSMZ16K7jebr5BScc92K40uN-ANq18man9iPNEEUDUkwvsiPWgDdaUl5yl-yxzrolFTzq_VSFzeLjtVlYhMNUMUw5g7xzU-VH5mF7TjohNgydl7SVhQlBvqR_rdZrKky_kpN4pOitbrtUXs-Gm0PII5GT_CAGdWuuX8nMcO03B667CUIqIY63hO0DrPIGOT29y1l7a6001HNda5MShnKZm10ZoSVn4wAh7LZ37f9EwZzWJJfhM97AdYtMX1d6j1jWH7e5nftKVfBI1YCA_9cg4WpFk-KsI3JEUNl8y0GAxX560eD_OJhYPzoY7KvmB2sp11CJ766C2-NchrGdpU_SUl9MEmjmH9OAQPuwj6NDfgJrU5UF73-R0zznXTRM1KsOdhZngk4Sa0tNiONMF4X-wVK7pxSUM90Bn5D3_UljxMM7eTo4d5Pp0JddA277Y0YBPlTLdIh0gNQ48OvYwogTUcZiyorOCGK_iPSzCOxbwnCuKM24tfg9_46f-ewJ4s4QhV_cu_65Kg8XLPUnFTNPK5yaWkykZRG452ebZrQzE5jTNomggbsGrbJgf8AY1Fnbu3FZkP8fO4cmWWh3zZvTqsJHH-qF)
 
 
-
-![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETuG2rLavCm58JtdEA5jI6H9MmyY4lTSe8k2WtWmeWXf2Oc_XWlyAZ5baBX2ZCtyfiP93GseHiJO_hUp7pVDz_CezkvR591B-GfeuIyLT8ZbRZPS4oPevGyZZcF6q5zyfGy3wM22ieFWC-qun0OGnvn94GylN3qOJUqeYtvHkXljE8G-Ib7gDa1AJzfjji8untr6UetV0zkpoD3gAfnbA3x51HB47hwHkBYu0N7Y3g4IydMS86l76fA56mvGXp7bEDE8qLpzMh33pnLTDYNgr6U9nppqq7WN1H1OWGof1sX6t6ywapWc4vc3GwUeDKI725mryfHXRmTtFokNIke6s5mpDTTFPvwJZPAB05fOSuLohwd0kwqQO7lL5CAVC5gjLEnGnqjb4bzkw-WGNKumIdJl6vEG3H6HvaDOwdoCPrQ9jmbHdMcqPuEQubmQ4mP_iXBCzhWbr3kRKlb0Mc_YAnKuLYroeYl1_KDE-j4_ilpENbz_Qe6AKKe0SbCD_EFe_Q6SNLdZIXGoRDpblxFI-Ythh1F-3dx0G00)
+        <font color=000 size=16><b>ID:</b> UC_2.1
+        <font color=000 size=16><b>Назва:</b> Аналіз даних
+        <font color=000 size=16><b>Учасники:</b> Користувач, Система
+        <font color=000 size=16><b>Передумови:</b> UC_2.2
+        <font color=000 size=16><b>Результат:</b> Система відображає дані в інтерактивному виді.
+        <font color=000 size=16><b>Виключні ситуації:</b> Відсутні
+        
+        <font color=000 size=16><b>Основний сценарій:</b>
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.1.puml)
 
 
 ![uml](http://www.plantuml.com/plantuml/png/SYWkIImgAStDuSf9JIjHo4XDJ4ajubA00fkq_BmIXUJydFmYMmC30uNYpAfKMqCpEviaEqyNAnlz93k5KETu8pqZGETaaDCm30NHg_W0Y0F0XeEmX6rFq4LJGykYAbA4KWa92k82RfNGfC7X2ZCtOcGhA94GM2pjdtdp_tmdHO4dE1omXujARD7nZXP7Wr8bZvgtIQ0tBk6OGGeSKKSS7eMRYP5nBgXik3mnU8qtgF01bqJVeXAdGaahJITIxv2pG2cQ5S-pIAAzY7GGgULAAiTvP8txCjXJQ9djPEtm3iS7ex2y3eqAbVoiqJUUDs5CYRXWmRNHFNPmCYa6EPucDPU705kk5QYNdXdga5w4R_wOEydZEInACOPrDVBW0ff77ZDnc-0nHbvFhlgN6CxJdtOx3QKpv3fsA4FZA_CzZWpZG6tmTif6bNk3p_xLqPv7-dWNFNUZaTMU25x0i0qdiMm6aTj1vB_I_hFkoqdwmkL-eTZq8ty1)
