@@ -17,14 +17,13 @@
 ![uml](http://www.plantuml.com/plantuml/png/ZPJFYfjG5CRtynGNrotDRBgGZ0oqcwxBh8kJSMZ16K7jebr5BScc92K40uN-ANq18man9iPNEEUDUkwvsiPWgDdaUl5yl-yxzrolFTzq_VSFzeLjtVlYhMNUMUw5g7xzU-VH5mF7TjohNgydl7SVhQlBvqR_rdZrKky_kpN4pOitbrtUXs-Gm0PII5GT_CAGdWuuX8nMcO03B667CUIqIY63hO0DrPIGOT29y1l7a6001HNda5MShnKZm10ZoSVn4wAh7LZ37f9EwZzWJJfhM97AdYtMX1d6j1jWH7e5nftKVfBI1YCA_9cg4WpFk-KsI3JEUNl8y0GAxX560eD_OJhYPzoY7KvmB2sp11CJ766C2-NchrGdpU_SUl9MEmjmH9OAQPuwj6NDfgJrU5UF73-R0zznXTRM1KsOdhZngk4Sa0tNiONMF4X-wVK7pxSUM90Bn5D3_UljxMM7eTo4d5Pp0JddA277Y0YBPlTLdIh0gNQ48OvYwogTUcZiyorOCGK_iPSzCOxbwnCuKM24tfg9_46f-ewJ4s4QhV_cu_65Kg8XLPUnFTNPK5yaWkykZRG452ebZrQzE5jTNomggbsGrbJgf8AY1Fnbu3FZkP8fO4cmWWh3zZvTqsJHH-qF)
 
 
-        <font color=000 size=16><b>ID:</b> UC_2.1
-        <font color=000 size=16><b>Назва:</b> Аналіз даних
-        <font color=000 size=16><b>Учасники:</b> Користувач, Система
-        <font color=000 size=16><b>Передумови:</b> UC_2.2
-        <font color=000 size=16><b>Результат:</b> Система відображає дані в інтерактивному виді.
-        <font color=000 size=16><b>Виключні ситуації:</b> Відсутні
-        
-        <font color=000 size=16><b>Основний сценарій:</b>
+## ID:UC_2.1
+## Назва:Аналіз даних
+## Учасники:Користувач, Система
+## Передумови: UC_2.2
+## Результат: Система відображає дані в інтерактивному виді.
+## Виключні ситуації: Відсутні  
+## Основний сценарій:
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.1.puml)
 
 
