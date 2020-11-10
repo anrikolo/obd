@@ -41,7 +41,7 @@
 - Результат: Система відображає знайдену інформацію у базі даних.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
-
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
 
 
 ### ID: UC_3
