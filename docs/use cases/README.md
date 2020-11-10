@@ -45,10 +45,10 @@
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
 
 ### ID: UC_3
-- Назва: П
-- Учасники: , Система
-- Передумови: 
-- Результат: 
+- Назва: Завантажувати дані.
+- Учасники: Користувач, Система.
+- Передумови: UC_2.1, можливо UC_2.2.
+- Результат: Дані завантажені на носії Користувача.
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_3.puml)
