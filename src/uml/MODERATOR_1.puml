@@ -6,8 +6,8 @@ package {
     usecase "<b>UC_8.1</b>\nНадати права Модератора" as UC_8.1
     usecase "<b>UC_8.2</b>\nЗабрати права Модератора" as UC_8.2
     usecase "<b>UC_8.3</b>\nЗабрати права Користувача" as UC_8.3
-    UC_8.1 .u.> UC_8
-    UC_8.2 .u.> UC_8
-    UC_8.3 .u.> UC_8
+    UC_8.1 .u.> UC_8: extends
+    UC_8.2 .u.> UC_8: extends
+    UC_8.3 .u.> UC_8: extends
     Модератор -> UC_8
 @enduml
