@@ -42,7 +42,7 @@
 - Виключні ситуації: Відсутні  
 ### Основний сценарій:
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubu55555sercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/greg-sourse/obd/master/src/uml/UC_2.2.puml)
 
 
 
